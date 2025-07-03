@@ -39,7 +39,7 @@ shortcutpilot/
 
 ## 📸 Preview
 
-![ShortcutPilot UI](https://via.placeholder.com/400x250?text=ShortcutPilot+UI+Preview)  
+![ShortcutPilot UI](Screenshot 2025-07-03 191917.png)  
 *(Replace with actual screenshot)*
 
 ---
