@@ -39,7 +39,7 @@ shortcutpilot/
 
 ## 📸 Preview
 
-![ShortcutPilot UI](Screenshot 2025-07-03 191917.png)  
+![ShortcutPilot UI]("/Screenshot 2025-07-03 191917.png")  
 *(Replace with actual screenshot)*
 
 ---
