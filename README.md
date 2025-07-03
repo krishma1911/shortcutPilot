@@ -40,7 +40,7 @@ shortcutpilot/
 ## 📸 Preview
 
 ![ShortcutPilot UI](screenshot.png)  
-*(Replace with actual screenshot)*
+
 
 ---
 
