@@ -17,11 +17,11 @@
 ## 📦 Folder Structure
 
 shortcutpilot/
-├── manifest.json # Chrome extension manifest (v3)
-├── popup.html # Popup UI
-├── popup.js # Dynamic JS to add/remove/save shortcuts
-├── styles.css # Clean modern styling
-└── icon.png # (Optional) Extension icon
+├── manifest.json # Chrome extension manifest (v3)<br>
+├── popup.html # Popup UI <br>
+├── popup.js # Dynamic JS to add/remove/save shortcuts<br>
+├── styles.css # Clean modern styling<br>
+└── icon.png # (Optional) Extension icon<br>
 
 
 ---
